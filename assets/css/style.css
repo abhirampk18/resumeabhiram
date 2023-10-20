@@ -609,6 +609,7 @@ li:hover {
 
 #about .about-descr .p-heading {
   font-family: "Playfair Display", serif;
+  color: black;
   font-size: 28px;
   text-align: left;
 }
